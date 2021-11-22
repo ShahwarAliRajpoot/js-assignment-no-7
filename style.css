@@ -1,0 +1,19 @@
+
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.counter{
+    text-align: center;
+}
+
+  .para1{
+      text-align: center;
+       width: 70%;
+       margin: auto;
+  }
+  .para2{
+      display: none;
+  }
